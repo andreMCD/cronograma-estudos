@@ -10,34 +10,34 @@ Essa agenda será semanal _Seg - Sex_ e todos os dias estudarei conteúdos difer
 
 ### Segunda-Feira
 
-> JavaScript Vanilla
-> Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
+> - JavaScript Vanilla
+> - Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
 
 ### Terça-Feira
 
-> Git, GitFlow, Github
-> JavaScript
-> Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
+> - Git, GitFlow, Github
+> - JavaScript
+> - Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
 
 ### Quarta-Feira
 
-> Testes _TDD_
-> JavaScript
-> Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
-> CSS3
+> - Testes _TDD_
+> - JavaScript
+> - Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
+> - CSS3
 
 ### Quinta-Feira
 
-> Testes _TDD_
-> Git, GitFlow, Github
-> Trabalhar no meu projeto pessoal
+> - Testes _TDD_
+> - Git, GitFlow, Github
+> - Trabalhar no meu projeto pessoal
 
 ### Sexta-Feira
 
-> JavaScript
-> Documentação
-> Resumo Semanal _Escrever sobre o que aprendi_
-> Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
+> - JavaScript
+> - Documentação
+> - Resumo Semanal _Escrever sobre o que aprendi_
+> - Consumir bons conteúdos _Artígos, Livros, Podcasts, Vídeos_
 
 ## Referências
 
